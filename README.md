@@ -2,13 +2,17 @@
 
 > This repository consists code for the technical blogsite that was created while learning TypeScript
 
-
 Please follow the [guidelines](#codes--redistribution) to build upon our work.
 
 
+### Setup
+Install [NodeJs](https://nodejs.org/en/)
 
+Installing typescript
+ `npm install -g typescript`
 
-
+Compile using 
+ `tsc filename.ts`
 
 
  

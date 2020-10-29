@@ -58,10 +58,7 @@ Please follow the [guidelines](#codes--redistribution) to build upon our work.
 
 ### Codes & Redistribution
 
-Below are the buttons to redirect you to each of the repositories, and the license.
-
-
-### Terms and Conditions 
+#### Terms & Conditions 
 
 *Attribution* - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 

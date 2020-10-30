@@ -8,9 +8,9 @@ function sum(n1, n2, showResult, phrase) {
         return result;
     }
 }
-var number1 = 7;
-var number2 = 1.8;
-var printResult = true;
-var phrase = "Output: ";
-var result = sum(number1, number2, printResult, phrase);
-console.log(result);
+var num1 = 7.8;
+var num2 = 1.8;
+var print_Result = true;
+var resPhrase = "Output: ";
+var resultPh = sum(num1, num2, print_Result, resPhrase);
+console.log(resultPh);

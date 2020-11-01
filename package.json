@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/punyakpdeshmukh/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/punyakpdeshmukh/Tech-Blog#readme"
+  "homepage": "https://github.com/punyakpdeshmukh/Tech-Blog#readme",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  }
 }
